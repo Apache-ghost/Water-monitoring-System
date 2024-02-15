@@ -32,21 +32,34 @@ Upon launching the application, you'll be greeted with the main dashboard, where
 
 ### User Registration
 - Register different types of users, specifying their roles and permissions within the system.
+  ![w1](https://github.com/Apache-ghost/Water-monitoring-System/assets/125418589/d2b7e552-9c89-4d41-8902-d65b758ecf4e)
+
+![ws](https://github.com/Apache-ghost/Water-monitoring-System/assets/125418589/58cee0f3-9b55-424c-9db8-72ffd6e7f980)
 
 ### Water Source Registration
 - Register various types of water sources, including their locations, types, and relevant details.
+  
+![wadd](https://github.com/Apache-ghost/Water-monitoring-System/assets/125418589/9af99859-4e98-49ad-89d1-5a392a014199)
 
 ### Data Management
 - Collect and store the condition of different water sources, ensuring accuracy and reliability through moderation.
 
 ### Complaint Handling
 - Receive and address complaints about water sources promptly, maintaining community trust and safety.
+  
+![wcomplain](https://github.com/Apache-ghost/Water-monitoring-System/assets/125418589/31721d4f-c336-442a-8564-5b4c85815b31)
+![wreply](https://github.com/Apache-ghost/Water-monitoring-System/assets/125418589/855340cf-8a65-4d43-8e6f-b71327cf0ad6)
+
 
 ### Export Data
 - Export water source information to a spreadsheet for further analysis or reporting purposes.
+  
+![wexcel](https://github.com/Apache-ghost/Water-monitoring-System/assets/125418589/f1a153d9-82a5-42ca-9e3f-0301634c82ed)
 
 ### Email Notifications
 - Send warning emails to users located in certain danger areas, ensuring timely communication and proactive measures.
+  
+![wemail](https://github.com/Apache-ghost/Water-monitoring-System/assets/125418589/86848fae-6559-405a-8808-07fdf199bb57)
 
 ## Contributing
 Contributions are welcome! If you'd like to enhance the Water Source Monitoring Application, feel free to submit pull requests or open issues on the GitHub repository.
@@ -55,4 +68,4 @@ Contributions are welcome! If you'd like to enhance the Water Source Monitoring 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-Developed with ❤️ by [Your Name](https://github.com/yourprofile)
+Developed with ❤️ by [Guegouo M. Guiddel](https://github.com/yourprofile)

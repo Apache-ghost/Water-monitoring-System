@@ -43,6 +43,10 @@ Upon launching the application, you'll be greeted with the main dashboard, where
 
 ### Data Management
 - Collect and store the condition of different water sources, ensuring accuracy and reliability through moderation.
+  
+![wmap](https://github.com/Apache-ghost/Water-monitoring-System/assets/125418589/860e2605-6a1c-4bb2-bccb-dd7dc54492df)
+
+![whome](https://github.com/Apache-ghost/Water-monitoring-System/assets/125418589/e096943e-8305-4eac-b3b1-01c281d7b953)
 
 ### Complaint Handling
 - Receive and address complaints about water sources promptly, maintaining community trust and safety.
